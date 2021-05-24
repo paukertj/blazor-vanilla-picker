@@ -11,3 +11,5 @@
 /Blazor.VanillaPicker/Blazor.VanillaPicker.Demo/bin/Debug/net5.0
 /Blazor.VanillaPicker/Blazor.VanillaPicker.Demo.Server/obj
 /Blazor.VanillaPicker/Blazor.VanillaPicker.Demo.Server/bin/Debug/net5.0
+/Blazor.VanillaPicker/Blazor.VanillaPicker.Demo.Wasm/bin/Debug/net5.0
+/Blazor.VanillaPicker/Blazor.VanillaPicker.Demo.Wasm/obj
